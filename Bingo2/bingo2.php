@@ -1,5 +1,5 @@
 <html>
-<head><title>Practica 1 Bingo</title></head>
+<head><title>Practica 1 Bingo en Nube</title></head>
 <body>
 <?php 
 
