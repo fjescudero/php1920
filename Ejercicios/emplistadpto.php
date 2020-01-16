@@ -1,6 +1,6 @@
 <?php
 
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', '10.131.14.76');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'rootroot');
 define('DB_DATABASE', 'empleadosnn');
